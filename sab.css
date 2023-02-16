@@ -15,7 +15,7 @@
  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
  color: white;
  border: none;
- border-radius: 100px;
+ border-radius: 50px;
  padding: 9px 25px;
  cursor: pointer;
 }
@@ -31,4 +31,30 @@
 }
 .cat3{
  background-color: blue;
+}
+.catagories h1{
+ color: #fff;
+}
+.catagories img{
+ width: 100px;
+}
+.card{
+ border: none;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+ padding: .75rem 1.25rem;
+ background-color: rgba(0,0,0,.03);
+ border-top: 1px solid rgba(0,0,0,.1);
+}
+#Subscribe{
+ height: 350px;
+}
+#Subscribe h6{
+ color: gray;
+}
+footer{
+ text-align: center;
+ color: magenta;
 }
